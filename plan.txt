@@ -1,0 +1,7 @@
+make the web
+
+input for the user
+
+takes the input to GPT4
+
+returns GPT4 response
